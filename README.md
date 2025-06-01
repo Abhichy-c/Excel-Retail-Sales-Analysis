@@ -15,6 +15,9 @@ This data analysis project explores sales performance using a retail dataset. It
 - How does revenue vary by category?
 - What is the average revenue per order?
 
+- 
+- Interaction Dashboard 
+
 ## 📊 Summary
 The analysis is done using Excel, focusing on pivot tables and charts. It provides quick business insights based on the existing sales data.
 
